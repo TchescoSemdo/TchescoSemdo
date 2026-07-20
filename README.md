@@ -6,12 +6,12 @@ Atuo em sistemas financeiros e regulados — Pagamentos, PIX, Banking, Mobilidad
 
 ## Resultados que já entreguei
 
-- 🏆 **#1 na Play Store por 2,5 semanas** e **1 milhão+ de usuários** adquiridos na campanha "Indique e Ganhe" da Claro Pay, com 300% de aumento no volume de transações
-- 📉 **Falha operacional de 8% para 0,5%** numa plataforma de mobilidade urbana com 500K+ transações PIX mensais
-- ⏱️ **MTTR de 4 horas para 45 minutos** via RCA e correlação de logs multi-camada (CloudWatch, Kibana, Duzzle)
-- 🧪 **QDD aplicado de ponta a ponta**: 75% de redução de bugs em produção, 70% menos retrabalho, 39% menos lead time, 517% de ROI
-- ⚡ **Setup de massa de teste de 2-4 minutos para 8 segundos**, eliminando 6 dependências manuais (Dynamic Identity Pipeline)
-- 💳 **500K+ transações mensais, zero fraude crítica** em wallet digital com tokenização PCI-DSS, MDD e 3DS
+- #1 na Play Store por 2,5 semanas** e **1 milhão+ de usuários** adquiridos na campanha "Indique e Ganhe" da Claro Pay, com 300% de aumento no volume de transações
+- Falha operacional de 8% para 0,5%** numa plataforma de mobilidade urbana com 500K+ transações PIX mensais
+- MTTR de 4 horas para 45 minutos** via RCA e correlação de logs multi-camada (CloudWatch, Kibana, Duzzle)
+- QDD aplicado de ponta a ponta**: 75% de redução de bugs em produção, 70% menos retrabalho, 39% menos lead time, 517% de ROI
+- Setup de massa de teste de 2-4 minutos para 8 segundos**, eliminando 6 dependências manuais (Dynamic Identity Pipeline)
+- 500K+ transações mensais, zero fraude crítica** em wallet digital com tokenização PCI-DSS, MDD e 3DS
 
 ## Engenharia que eu construo
 
