@@ -1,6 +1,6 @@
 <h1 align="center">Olá, eu sou o Francisco 👋</h1>
-<h3 align="center">Senior Quality Engineer & SDET | Gen AI in QE | Payments, PIX & Cloud-to-Edge</h3>
-<p align="center">Critical & Distributed Systems · Reliability · Test Automation (Mobile, Web, API, IoT) · QDD · DoR & DoD</p>
+<h3 align="center">Quality Architect | Senior SDET com 9+ anos atuando em sistemas críticos e regulados</h3>
+<p align="center">Gen AI in QE · Payments, PIX & Cloud-to-Edge · Reliability · Test Automation (Mobile, Web, API, IoT) · QDD · DoR & DoD</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/francisco-carvalho31/"><img src="https://img.shields.io/badge/LinkedIn-francisco--carvalho31-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
